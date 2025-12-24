@@ -30,7 +30,6 @@ Not affiliated with any racing organization.
 
 
 Author:
-Qiyou (Bugatti) Wu
-  Mechanical Engineering at Stanford University
+Qiyou (Bugatti) Wu, Mechanical Engineering at Stanford University
 
   
